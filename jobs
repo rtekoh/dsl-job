@@ -82,7 +82,7 @@ job('job_TEKOH-TEST') {
     }
 
     publishers {
-        mailer('RTEKOH@example.com', true, true)
+        mailer('rtekoh@yahoo.com', true, true)
     }
 }
 
